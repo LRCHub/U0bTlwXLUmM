@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "再会(はるまきごはんVocal ver.)",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2025-12-02T13:41:53.404443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "再会 (はるまきごはんVocal ver.)",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_再会_(はるまきごはんVocal_ver.)_はるまきごはん.txt"
+    }
+  ]
+}
